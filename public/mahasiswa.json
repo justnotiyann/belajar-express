@@ -1,0 +1,17 @@
+[
+    {
+        "nama":"Fitrian",
+        "jurusan":"Teknik Informatika",
+        "umur":19
+    },
+    {
+        "nama":"Shousyade",
+        "jurusan":"Teknik Industri",
+        "umur":20
+    },
+    {
+        "nama":"Almadina",
+        "jurusan":"Teknik Sipil",
+        "umur":17
+    }
+]
